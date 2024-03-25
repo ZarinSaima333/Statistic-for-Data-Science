@@ -1,1 +1,1 @@
-# ZarinSaima333-Statistic-for-Data-Science
+# Statistic-for-Data-Science
